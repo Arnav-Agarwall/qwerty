@@ -1,1 +1,2 @@
-print ("arnav agarwal")
+print ("arnav")
+print(add,sub,multiply)
