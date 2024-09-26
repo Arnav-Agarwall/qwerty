@@ -1,2 +1,4 @@
+
 print ("arnav")
-print(add,sub,multiply)
+print ("the goat")
+
